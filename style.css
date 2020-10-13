@@ -1,0 +1,76 @@
+body{
+  background-color: black;
+
+}
+.start{
+  color: white;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif ;
+  font-size: 50px;
+  height: ;
+  margin: ;
+  padding: 7px 0 7px 0 7px;
+  text-align: center;
+}
+.greeting{
+  color: white;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif ;
+  font-size: 20px;
+  height: ;
+  margin: ;
+  padding: 7px 0 7px 0 7px;
+  text-align: center;
+}
+.info{
+  color: white;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif ;
+  font-size: 15px;
+  height: ;
+  margin: ;
+  padding: 7px 0 7px 0 7px;
+  text-align: center;
+}
+.interest{
+  color: white;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif ;
+  font-size: 10px;
+  height: ;
+  margin: ;
+  padding: 7px 0 7px 0 7px;
+  text-align: center;
+}
+.platform{
+  color: white;
+  
+
+}
+.git{
+  color: white;
+}
+.smooth{
+ color: white;
+}
+
+.brainstorm{
+  color: white;
+
+}
+.work{
+color: white;
+}
+.music{
+  color: white;
+}
+.l-in{
+  color: white;
+}
+.email{
+  color: white;
+}
+a:link    { color:  green;  }
+a:visited { color: green; }
+a:hover   { color: green; }
+a:active  { color: green; }
