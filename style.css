@@ -2,7 +2,7 @@ body{
   background-color: black;
 
 }
-.start{
+h1{
   color: white;
   background-color: black;
   font-family: Arial, Helvetica, sans-serif ;
@@ -12,7 +12,7 @@ body{
   padding: 7px 0 7px 0 7px;
   text-align: center;
 }
-.greeting{
+h2{
   color: white;
   background-color: black;
   font-family: Arial, Helvetica, sans-serif ;
@@ -22,7 +22,7 @@ body{
   padding: 7px 0 7px 0 7px;
   text-align: center;
 }
-.info{
+p{
   color: white;
   background-color: black;
   font-family: Arial, Helvetica, sans-serif ;
@@ -32,7 +32,7 @@ body{
   padding: 7px 0 7px 0 7px;
   text-align: center;
 }
-.interest{
+h3{
   color: white;
   background-color: black;
   font-family: Arial, Helvetica, sans-serif ;
@@ -42,32 +42,10 @@ body{
   padding: 7px 0 7px 0 7px;
   text-align: center;
 }
-.platform{
-  color: white;
-  
-
-}
-.git{
+li{
   color: white;
 }
-.smooth{
- color: white;
-}
-
-.brainstorm{
-  color: white;
-
-}
-.work{
-color: white;
-}
-.music{
-  color: white;
-}
-.l-in{
-  color: white;
-}
-.email{
+a{
   color: white;
 }
 a:link    { color:  green;  }
