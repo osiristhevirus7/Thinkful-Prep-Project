@@ -1,56 +1,69 @@
 body{
-  background-color: black;
+  background-color: rgb(102, 7, 8);
   
 
 }
 h1{
-  color: white;
-  background-color: black;
+  color: rgb(211, 211, 211);
   font-family: Arial, Helvetica, sans-serif ;
   font-size: 50px;
-  padding: 7px 0 7px 0 7px;
-  text-align: center;
-  background-color: brown;
 }
 h2{
   color: white;
-  background-color: black;
+  
   font-family: Arial, Helvetica, sans-serif ;
-  font-size: 20px;
-  padding: 7px 0 7px 0 7px;
-  text-align: center;
-  background-color: darkgreen;
+
+  
 }
 p{
-  color: white;
-  background-color: black;
+  color: rgb(11, 9, 10);
   font-family: Arial, Helvetica, sans-serif ;
-  font-size: 15px;
-  padding: 7px 0 7px 0 7px;
-  text-align: center;
-  background-color: gray;
+  background-color: rgb(177, 167, 166);
+ 
 }
 h3{
   color: white;
-  background-color: black;
   font-family: Arial, Helvetica, sans-serif ;
-  font-size: 10px;
-  height: ;
-  margin: ;
-  padding: 7px 0 7px 0 7px;
-  text-align: center;
 }
 li{
-  color: black;
-  text-align: center;
-  background-color: firebrick;
-  padding: 10px 5px 10px 5px;
-  margin: 10px 5px 10px 5px;
-  border-radius: 50%;
-}
+background-color: rgb(177, 167, 166);
+color: black);
+}  
+ul{
+  background-color: rgb(177, 167, 166);
+  color: black);
+  } 
+  ol{
+    background-color: rgb(177, 167, 166);
+    color: black);
+    }   
 a{
   color: white;
   background-color: bisque;
+}
+img{
+  width: 100%;
+  border-radius: 8px;
+}
+main{
+  padding: 0 38%;
+  margin: 70px 0;
+  text-align: center;
+}
+section{
+  padding: 0 38%;
+  margin: 70px 0;
+  text-align: center;
+}
+article{
+  padding: 0 20%;
+  margin: 70px 0; 
+  text-align: center;
+}
+footer{
+  padding: 0 38%;
+  margin: 70px 0; 
+  text-align: center;
 }
 a:link    { color:  green;  }
 a:visited { color: green; }
